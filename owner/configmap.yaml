@@ -1,0 +1,7 @@
+apiVersion: v1
+metadata:
+   name: map-1
+kind: ConfigMap
+data:
+    color: red
+    bike: harleydavidson
